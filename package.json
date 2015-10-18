@@ -1,0 +1,25 @@
+{
+  "name": "express-api-boiler",
+  "version": "0.0.1",
+  "description": "REST API layout for Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/programmatical/express-api-boiler.git"
+  },
+  "keywords": [
+    "Boilerplate",
+    "Express"
+  ],
+  "author": "programmatical",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/programmatical/express-api-boiler/issues"
+  },
+  "dependencies": {
+    "express": "~4.13.3"
+  }
+}
